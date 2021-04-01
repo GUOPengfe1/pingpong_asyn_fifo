@@ -1,0 +1,16 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../asyn_fifo/fifo.v" \
+"../../../../asyn_fifo/fifomem.v" \
+"../../../../pingpong_asyn_fifo.v" \
+"../../../../asyn_fifo/rptr_empty.v" \
+"../../../../asyn_fifo/sync_r2w.v" \
+"../../../../asyn_fifo/sync_w2r.v" \
+"../../../../asyn_fifo/wptr_full.v" \
+"../../../../pingpong_asyn_fifo_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

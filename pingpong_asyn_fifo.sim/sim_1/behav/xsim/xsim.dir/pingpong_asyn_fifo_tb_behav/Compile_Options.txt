@@ -1,0 +1,1 @@
+-wto "d442fe6f2ff64fa3b3304e96f5238413" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "pingpong_asyn_fifo_tb_behav" "xil_defaultlib.pingpong_asyn_fifo_tb" "xil_defaultlib.glbl" -log "elaborate.log" 

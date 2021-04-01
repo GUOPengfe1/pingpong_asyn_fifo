@@ -1,0 +1,16 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "J:/Verilog_Develop/pingpong_asyn_fifo/asyn_fifo/fifo.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fifo
+INFO: [VRFC 10-2263] Analyzing Verilog file "J:/Verilog_Develop/pingpong_asyn_fifo/asyn_fifo/fifomem.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fifomem
+INFO: [VRFC 10-2263] Analyzing Verilog file "J:/Verilog_Develop/pingpong_asyn_fifo/pingpong_asyn_fifo.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pingpong_asyn_fifo
+INFO: [VRFC 10-2263] Analyzing Verilog file "J:/Verilog_Develop/pingpong_asyn_fifo/asyn_fifo/rptr_empty.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rptr_empty
+INFO: [VRFC 10-2263] Analyzing Verilog file "J:/Verilog_Develop/pingpong_asyn_fifo/asyn_fifo/sync_r2w.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sync_r2w
+INFO: [VRFC 10-2263] Analyzing Verilog file "J:/Verilog_Develop/pingpong_asyn_fifo/asyn_fifo/sync_w2r.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sync_w2r
+INFO: [VRFC 10-2263] Analyzing Verilog file "J:/Verilog_Develop/pingpong_asyn_fifo/asyn_fifo/wptr_full.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module wptr_full
+INFO: [VRFC 10-2263] Analyzing Verilog file "J:/Verilog_Develop/pingpong_asyn_fifo/pingpong_asyn_fifo_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pingpong_asyn_fifo_tb

@@ -1,0 +1,13 @@
+0.6
+2017.4
+Dec 15 2017
+21:07:18
+J:/Verilog_Develop/pingpong_asyn_fifo/asyn_fifo/fifo.v,1617261612,verilog,,J:/Verilog_Develop/pingpong_asyn_fifo/asyn_fifo/fifomem.v,,fifo,,,,,,,,
+J:/Verilog_Develop/pingpong_asyn_fifo/asyn_fifo/fifomem.v,1617268680,verilog,,J:/Verilog_Develop/pingpong_asyn_fifo/pingpong_asyn_fifo.v,,fifomem,,,,,,,,
+J:/Verilog_Develop/pingpong_asyn_fifo/asyn_fifo/rptr_empty.v,1616832918,verilog,,J:/Verilog_Develop/pingpong_asyn_fifo/asyn_fifo/sync_r2w.v,,rptr_empty,,,,,,,,
+J:/Verilog_Develop/pingpong_asyn_fifo/asyn_fifo/sync_r2w.v,1616832806,verilog,,J:/Verilog_Develop/pingpong_asyn_fifo/asyn_fifo/sync_w2r.v,,sync_r2w,,,,,,,,
+J:/Verilog_Develop/pingpong_asyn_fifo/asyn_fifo/sync_w2r.v,1616832858,verilog,,J:/Verilog_Develop/pingpong_asyn_fifo/asyn_fifo/wptr_full.v,,sync_w2r,,,,,,,,
+J:/Verilog_Develop/pingpong_asyn_fifo/asyn_fifo/wptr_full.v,1616832948,verilog,,J:/Verilog_Develop/pingpong_asyn_fifo/pingpong_asyn_fifo_tb.v,,wptr_full,,,,,,,,
+J:/Verilog_Develop/pingpong_asyn_fifo/pingpong_asyn_fifo.sim/sim_1/behav/xsim/glbl.v,1513215260,verilog,,,,glbl,,,,,,,,
+J:/Verilog_Develop/pingpong_asyn_fifo/pingpong_asyn_fifo.v,1617277830,verilog,,J:/Verilog_Develop/pingpong_asyn_fifo/asyn_fifo/rptr_empty.v,,pingpong_asyn_fifo,,,,,,,,
+J:/Verilog_Develop/pingpong_asyn_fifo/pingpong_asyn_fifo_tb.v,1617264264,verilog,,,,pingpong_asyn_fifo_tb,,,,,,,,
